@@ -1,0 +1,2 @@
+- Fonte interessante sobre várias criações com arduino e IoT:
+https://www.youtube.com/@BrincandocomIdeias
